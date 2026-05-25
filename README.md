@@ -1,4 +1,4 @@
-# Pattern Generator and Number Analyzer
+# Logic Box
 
 - A beginner-friendly Python project that generates star patterns and analyzes a range of numbers by identifying even and odd numbers while calculating their total sum. This project helps beginners understand loops, conditional statements, nested loops, arithmetic operations, and user interaction in Python.
 
